@@ -26,7 +26,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 
 - 🔭 I’m currently working on Suvaidyam 
-- 🌱 I’m currently learning Full Stack  MEAN Developer 
+- 🌱 I’m currently learning and working with Full Stack MEAN and Frappe Developer
 - 👯 I’m looking to collaborate on Learning based Projects 
 - 💬 Ask me about Full Stack Developer 
 - 📫 How to reach me: Email:- vishal.suvaidyam@outlook.com 
